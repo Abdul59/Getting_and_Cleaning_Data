@@ -4,8 +4,8 @@ This repo covers my answer to the Getting and Cleaning Data Peer Assessment (see
 Simply execute "run_analysis.R". If the data is not on the same folder, the script automatically downloads and extract it in the right place. If you already have downloaded the data, extract the zip file inside the same folder than the script. 
 The scripts have been examined on MAC OS X. 
 
-The project's description
-
+The project's description :
+=========================
 The purpose of this project is to show your ability to collect, work with, and clean a data set. The goal is to arrange tidy data that can be used for later analysis. 
 You will be required to submit: 
 1) a tidy data set as described below, 
